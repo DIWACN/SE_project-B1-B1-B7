@@ -16,7 +16,7 @@
 - **Vite** – Superfast bundler and development server.
 - **PostCSS** – For processing Tailwind and custom CSS with plugins.
 - **ESLint** – To enforce consistent code quality and formatting.
-- **Bun / NPM** – For managing dependencies and running scripts.
+- **NPM** – For managing dependencies and running scripts.
 
 ---
 
